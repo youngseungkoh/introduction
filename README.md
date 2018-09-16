@@ -1,6 +1,7 @@
-# Hello World!
+Hello World!
+==
 
-What is this web page for?
+What this web page for?
 --
 ```
 Nice to meet you!
@@ -13,8 +14,16 @@ Thanks!
 Youngseung Koh
 ```
 
-Click below link to visit my web page! :D
+What I want to update
 --
 ```
-Here! ==> https://youngseungkoh.github.io/youngseungkoh.html
+Since I'm learning various programming skills now,
+I want to make 'THE DOCUMENT LOGS' by updating what I learned each day.
+Hope I can share my learning experience with others in near future!
+Yay!
 ```
+
+Want to check my resume? ==>  [Click HERE!](https://youngseungkoh.github.io/youngseungkoh.html)
+--
+
+Want to learn with me?   ==>  [Click HERE!](https://youngseungkoh.github.io/KohCode.html)
