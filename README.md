@@ -11,7 +11,7 @@ I hope I can share the journey of my programming adventure with YOU! :D
 Well then, let's keep in touch!
 
 Thanks!
-Youngseung Koh
+YoungSeung Koh
 ```
 
 What I want to update
@@ -27,3 +27,4 @@ Want to check my resume? ==>  [Click HERE!](https://youngseungkoh.github.io/youn
 --
 
 Want to learn with me?   ==>  [Click HERE!](https://youngseungkoh.github.io/KohCode.html)
+--

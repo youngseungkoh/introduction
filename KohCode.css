@@ -35,3 +35,9 @@ div.head p {
     padding: 0px 0px 0px 20px;
     background-color: #f1f1f1;
 }
+
+div.opening {
+    margin-left:210px;
+    padding:1px 16px;
+    height:1000px;
+}
