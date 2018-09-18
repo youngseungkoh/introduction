@@ -1,43 +1,66 @@
-ul {
+/* META ----------------------------------------------------------------------*/
+
+
+/* HEADER --------------------------------------------------------------------*/
+header h1 {
+    padding: 10px 0px 10px 12px;
+    margin: 0;
+    background-color: #4CAF50;
+    color: white;
+}
+header p {
+    padding: 0px 0px 0px 20px;
+    background-color: #f1f1f1;
+}
+
+
+/* SECTION -------------------------------------------------------------------*/
+
+section nav {
+  float: left;
+  display: inline-block;
+}
+section nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     width: 200px;
     background-color: #f1f1f1;
 }
-
-li a {
+section nav li a {
     display: block;
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
 }
-
-li a.active {
+section nav li a.active {
     background-color: #4CAF50;
     color: white;
 }
 
 /* Change the link color on hover */
-li a:hover {
+section nav li a:hover {
     background-color: #555;
     color: white;
 }
 
-div.head h1 {
-    padding: 10px 0px 10px 12px;
-    margin: 0;
-    background-color: #4CAF50;
+
+section article {
+  float: left;
+  padding: 20px;
+  display: inline-block;
+}
+
+section:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* FOOTER --------------------------------------------------------------------*/
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
     color: white;
-}
-
-div.head p {
-    padding: 0px 0px 0px 20px;
-    background-color: #f1f1f1;
-}
-
-div.opening {
-    margin-left:210px;
-    padding:1px 16px;
-    height:1000px;
 }
